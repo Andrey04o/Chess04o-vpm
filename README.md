@@ -1,4 +1,4 @@
-# [TETR04o](https://github.com/Andrey04o/Chess04o) VPM Package
+# [Chess04o](https://github.com/Andrey04o/Chess04o) VPM Package
 
 Made from this [template-package-listing](https://github.com/vrchat-community/template-package-listing) repo
 
