@@ -1,0 +1,3 @@
+[submodule "Packages/com.andrey04o.chess04o"]
+	path = Packages/com.andrey04o.chess04o
+	url = git@github.com:Andrey04o/Chess04o.git
